@@ -35,7 +35,7 @@ Quan hệ chính:
 * **Tỷ lệ chuyển đổi.**
 * **Tỷ lệ thất thoát:** Đánh giá mức độ sụt giảm qua từng bước của phễu chuyển đổi.
 * **Ngân sách phân bổ:** Phân bổ ngân sách chiến dịch cho từng quảng cáo.
-* **Tỷ lệ khớp / không khớp Targeting.**
+* **Tỷ lệ khớp / không khớp Targeting theo age và interests.**
 * **Tỷ lệ tương tác ngoài nhóm mục tiêu.**
 * ****
 * **Doanh thu và ngân sách theo nền tảng.**
