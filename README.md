@@ -83,13 +83,12 @@ Quan hệ chính:
 .
 ├── README.md
 ├── Data/
-│   ├── Raw/
-│   │   ├── ad_events.csv
-│   │   ├── ads.csv
-│   │   ├── campaigns.csv
-│   │   └── users.csv
-│   └── Clean/
-│       └── users_clean.csv
+│   │ 
+│   └──├── ad_events.csv
+│      ├── ads.csv
+│      ├── campaigns.csv
+│      └── users.csv
+│   
 └── PowerBI/
     └── Social_Media_Ad_Performance.pbix
 ```
